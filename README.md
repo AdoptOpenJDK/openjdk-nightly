@@ -4,7 +4,7 @@ This repository is for publishing all of the nightly builds from the AdoptOpenJD
 
 These binaries are built using an openly shared build tool chain (see https://github.com/AdoptOpenJDK/openjdk-build)
 
-## _WARNING: THESE ARE NOT FOR PRODUCTION USE_
+## WARNING: THESE ARE NOT FOR PRODUCTION USE
 
 The AdoptOpenJDK OpenJDK binaries are not fully tested (JCK/TCK + further testing) and verified. For production you should 
 look to professionally supported Java implementations from Oracle, Azul, IBM, RedHat, SAP and other vendors.
