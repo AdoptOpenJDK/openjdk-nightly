@@ -9,9 +9,9 @@ These binaries are built using an openly shared build tool chain (see https://gi
 The AdoptOpenJDK OpenJDK binaries are not fully tested (JCK/TCK + further testing) and verified. For production you should 
 look to professionally supported Java implementations from Oracle, Azul, IBM, RedHat, SAP and other vendors.
 
-## Download OpenJDK binaries
+## Download OpenJDK Nightly Build binaries
 
-Find all the prebuilt AdoptOpenJDK OpenJDK binaries [here](https://github.com/AdoptOpenJDK/openjdk-nightly/releases)
+Find all the prebuilt AdoptOpenJDK OpenJDK nightly binaries [here](https://github.com/AdoptOpenJDK/openjdk-nightly/releases)
 
 ## Supported Platforms
 
