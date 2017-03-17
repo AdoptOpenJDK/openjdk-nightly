@@ -17,8 +17,8 @@ Find all the prebuilt AdoptOpenJDK OpenJDK binaries [here](https://github.com/Ad
 
 As of 17th of March 2017 the supported platforms are:
 
-# Linux x64
-# Mac OS X
+1. Linux x64
+1. Mac OS X
 
 ## Platforms to be added
 
