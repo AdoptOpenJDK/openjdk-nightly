@@ -1,10 +1,10 @@
 [
   {
-    "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-nightly/releases/5825334",
-    "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-nightly/releases/5825334/assets",
-    "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk-nightly/releases/5825334/assets{?name,label}",
+    "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-nightly/releases/5835407",
+    "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-nightly/releases/5835407/assets",
+    "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk-nightly/releases/5835407/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/tag/jdk8u152-b01-20172203",
-    "id": 5825334,
+    "id": 5835407,
     "tag_name": "jdk8u152-b01-20172203",
     "target_commitish": "master",
     "name": "jdk8u152-b01-20172203",
@@ -29,12 +29,12 @@
       "site_admin": false
     },
     "prerelease": false,
-    "created_at": "2017-03-22T00:02:15Z",
-    "published_at": "2017-03-22T00:14:51Z",
+    "created_at": "2017-03-22T16:05:36Z",
+    "published_at": "2017-03-22T18:26:56Z",
     "assets": [
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-nightly/releases/assets/3459091",
-        "id": 3459091,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk-nightly/releases/assets/3464831",
+        "id": 3464831,
         "name": "OpenJDK8_x64_Linux_20172203.tar.gz",
         "label": "",
         "uploader": {
@@ -58,10 +58,10 @@
         },
         "content_type": "application/octet-stream",
         "state": "uploaded",
-        "size": 78387060,
-        "download_count": 2,
-        "created_at": "2017-03-22T00:14:51Z",
-        "updated_at": "2017-03-22T00:14:57Z",
+        "size": 78382929,
+        "download_count": 0,
+        "created_at": "2017-03-22T18:26:57Z",
+        "updated_at": "2017-03-22T18:27:02Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b01-20172203/OpenJDK8_x64_Linux_20172203.tar.gz"
       }
     ],
@@ -129,7 +129,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 78102675,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2017-03-17T10:50:12Z",
         "updated_at": "2017-03-17T10:58:59Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b01-201715031800/OpenJDK8_x64_Linux_201715031800.tar.gz"
