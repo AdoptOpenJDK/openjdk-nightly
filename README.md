@@ -2,7 +2,7 @@
 
 This repository is for publishing all of the nightly builds from the AdoptOpenJDK OpenJDK build community.
 
-These binaries are built using an openly shared build tool chain (see https://github.com/AdoptOpenJDK/openjdk-build)
+These binaries are built on a shared CI infrastructure (see http://ci.adoptopenjdk.net) using an openly shared build tool chain (see https://github.com/AdoptOpenJDK/openjdk-build)
 
 ## WARNING: THESE ARE NOT FOR PRODUCTION USE
 
