@@ -59,7 +59,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 107,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2017-04-04T19:55:29Z",
         "updated_at": "2017-04-04T19:55:30Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b01-20170404/OpenJDK8_s390x_Linux_20170404.sha256.txt"
@@ -417,7 +417,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 103,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2017-03-31T18:50:19Z",
         "updated_at": "2017-03-31T18:50:20Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b01-20173103/OpenJDK8_x64_Mac_20173103.sha256.txt"
@@ -583,7 +583,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2017-03-30T18:43:02Z",
         "updated_at": "2017-03-30T18:43:02Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b01-20173003/OpenJDK8_x64_Linux_20173003.sha256.txt"
@@ -647,7 +647,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 103,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2017-03-30T18:43:13Z",
         "updated_at": "2017-03-30T18:43:13Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b01-20173003/OpenJDK8_x64_Mac_20173003.sha256.txt"
@@ -749,7 +749,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 107,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2017-03-28T18:51:31Z",
         "updated_at": "2017-03-28T18:51:31Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b01-20172803/OpenJDK8_s390x_Linux_20172803.sha256.txt"
@@ -813,7 +813,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 2,
+        "download_count": 4,
         "created_at": "2017-03-28T18:51:39Z",
         "updated_at": "2017-03-28T18:51:40Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b01-20172803/OpenJDK8_x64_Linux_20172803.sha256.txt"
@@ -877,7 +877,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 103,
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2017-03-28T18:51:48Z",
         "updated_at": "2017-03-28T18:51:48Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b01-20172803/OpenJDK8_x64_Mac_20172803.sha256.txt"
@@ -1381,7 +1381,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 78382929,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2017-03-22T18:26:57Z",
         "updated_at": "2017-03-22T18:27:02Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b01-20172203/OpenJDK8_x64_Linux_20172203.tar.gz"
@@ -1483,7 +1483,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 76205129,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2017-03-17T10:59:00Z",
         "updated_at": "2017-03-17T11:02:40Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b01-201715031800/OpenJDK8_x64_Mac_201716031403.tar.gz"
