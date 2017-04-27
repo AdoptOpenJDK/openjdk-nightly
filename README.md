@@ -25,7 +25,7 @@ As of 17th of March 2017 the supported platforms are:
 The AdoptOpenJDK OpenJDK build community plans to also add the following platforms:
 
 * Windows
-* Arch64
+* Linux arm64 (aarch64, ARMv8)
 * ...
 
 ## How to get involved 
