@@ -91,7 +91,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 75175458,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2017-05-16T16:43:10Z",
         "updated_at": "2017-05-16T16:43:16Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u152-b03-20171605/OpenJDK8_arm64_Linux_20171605.tar.gz"
