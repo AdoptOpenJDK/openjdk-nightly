@@ -1031,7 +1031,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2017-07-26T17:40:52Z",
         "updated_at": "2017-07-26T17:40:52Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u141-b15-20172607/OpenJDK8_aarch64_Linux_20172607.sha256.txt"
