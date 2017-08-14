@@ -218,7 +218,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 75743024,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2017-08-14T18:17:36Z",
       "updated_at": "2017-08-14T18:17:43Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk-nightly/releases/download/jdk8u144-b01-20171408/OpenJDK8_ppc64le_Linux_20171408.tar.gz"
