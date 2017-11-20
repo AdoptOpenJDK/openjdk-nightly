@@ -1,12 +1,12 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/8566378",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/8566378/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/8566378/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/tag/jdk8u172-b00-20171711",
-  "id": 8566378,
-  "tag_name": "jdk8u172-b00-20171711",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/8591226",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/8591226/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/8591226/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/tag/jdk8u172-b00-20172011",
+  "id": 8591226,
+  "tag_name": "jdk8u172-b00-20172011",
   "target_commitish": "master",
-  "name": "jdk8u172-b00-20171711",
+  "name": "jdk8u172-b00-20172011",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -28,13 +28,13 @@
     "site_admin": false
   },
   "prerelease": false,
-  "created_at": "2017-11-17T10:45:20Z",
-  "published_at": "2017-11-17T18:30:46Z",
+  "created_at": "2017-11-20T16:05:20Z",
+  "published_at": "2017-11-20T18:30:35Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378033",
-      "id": 5378033,
-      "name": "OpenJDK8_ppc64le_Linux_20171711.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400184",
+      "id": 5400184,
+      "name": "OpenJDK8_ppc64le_Linux_20172011.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -59,14 +59,14 @@
       "state": "uploaded",
       "size": 105,
       "download_count": 0,
-      "created_at": "2017-11-17T18:31:01Z",
-      "updated_at": "2017-11-17T18:31:01Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_ppc64le_Linux_20171711.sha256.txt"
+      "created_at": "2017-11-20T18:30:49Z",
+      "updated_at": "2017-11-20T18:30:49Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_ppc64le_Linux_20172011.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378034",
-      "id": 5378034,
-      "name": "OpenJDK8_ppc64le_Linux_20171711.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400185",
+      "id": 5400185,
+      "name": "OpenJDK8_ppc64le_Linux_20172011.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -89,16 +89,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 75775678,
+      "size": 75772340,
       "download_count": 0,
-      "created_at": "2017-11-17T18:31:01Z",
-      "updated_at": "2017-11-17T18:31:13Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_ppc64le_Linux_20171711.tar.gz"
+      "created_at": "2017-11-20T18:30:50Z",
+      "updated_at": "2017-11-20T18:31:04Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_ppc64le_Linux_20172011.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378029",
-      "id": 5378029,
-      "name": "OpenJDK8_ppc64_AIX_20171711.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400180",
+      "id": 5400180,
+      "name": "OpenJDK8_ppc64_AIX_20172011.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -123,14 +123,14 @@
       "state": "uploaded",
       "size": 101,
       "download_count": 0,
-      "created_at": "2017-11-17T18:30:47Z",
-      "updated_at": "2017-11-17T18:30:49Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_ppc64_AIX_20171711.sha256.txt"
+      "created_at": "2017-11-20T18:30:36Z",
+      "updated_at": "2017-11-20T18:30:36Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_ppc64_AIX_20172011.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378030",
-      "id": 5378030,
-      "name": "OpenJDK8_ppc64_AIX_20171711.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400181",
+      "id": 5400181,
+      "name": "OpenJDK8_ppc64_AIX_20172011.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -153,16 +153,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 80070264,
+      "size": 80068409,
       "download_count": 0,
-      "created_at": "2017-11-17T18:30:49Z",
-      "updated_at": "2017-11-17T18:31:00Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_ppc64_AIX_20171711.tar.gz"
+      "created_at": "2017-11-20T18:30:36Z",
+      "updated_at": "2017-11-20T18:30:49Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_ppc64_AIX_20172011.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378036",
-      "id": 5378036,
-      "name": "OpenJDK8_s390x_Linux_20171711.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400186",
+      "id": 5400186,
+      "name": "OpenJDK8_s390x_Linux_20172011.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -187,14 +187,14 @@
       "state": "uploaded",
       "size": 103,
       "download_count": 0,
-      "created_at": "2017-11-17T18:31:13Z",
-      "updated_at": "2017-11-17T18:31:14Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_s390x_Linux_20171711.sha256.txt"
+      "created_at": "2017-11-20T18:31:04Z",
+      "updated_at": "2017-11-20T18:31:04Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_s390x_Linux_20172011.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378037",
-      "id": 5378037,
-      "name": "OpenJDK8_s390x_Linux_20171711.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400187",
+      "id": 5400187,
+      "name": "OpenJDK8_s390x_Linux_20172011.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -217,16 +217,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 74567582,
+      "size": 74565963,
       "download_count": 0,
-      "created_at": "2017-11-17T18:31:14Z",
-      "updated_at": "2017-11-17T18:31:27Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_s390x_Linux_20171711.tar.gz"
+      "created_at": "2017-11-20T18:31:05Z",
+      "updated_at": "2017-11-20T18:31:13Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_s390x_Linux_20172011.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378040",
-      "id": 5378040,
-      "name": "OpenJDK8_x64_Linux_20171711.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400188",
+      "id": 5400188,
+      "name": "OpenJDK8_x64_Linux_20172011.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -251,14 +251,14 @@
       "state": "uploaded",
       "size": 101,
       "download_count": 0,
-      "created_at": "2017-11-17T18:31:27Z",
-      "updated_at": "2017-11-17T18:31:27Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_x64_Linux_20171711.sha256.txt"
+      "created_at": "2017-11-20T18:31:13Z",
+      "updated_at": "2017-11-20T18:31:13Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_x64_Linux_20172011.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378041",
-      "id": 5378041,
-      "name": "OpenJDK8_x64_Linux_20171711.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400189",
+      "id": 5400189,
+      "name": "OpenJDK8_x64_Linux_20172011.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -281,16 +281,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 78561378,
+      "size": 78572174,
       "download_count": 0,
-      "created_at": "2017-11-17T18:31:28Z",
-      "updated_at": "2017-11-17T18:31:37Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_x64_Linux_20171711.tar.gz"
+      "created_at": "2017-11-20T18:31:14Z",
+      "updated_at": "2017-11-20T18:31:21Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_x64_Linux_20172011.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378043",
-      "id": 5378043,
-      "name": "OpenJDK8_x64_Mac_20171711.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400192",
+      "id": 5400192,
+      "name": "OpenJDK8_x64_Mac_20172011.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -315,14 +315,14 @@
       "state": "uploaded",
       "size": 99,
       "download_count": 0,
-      "created_at": "2017-11-17T18:31:37Z",
-      "updated_at": "2017-11-17T18:31:37Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_x64_Mac_20171711.sha256.txt"
+      "created_at": "2017-11-20T18:31:21Z",
+      "updated_at": "2017-11-20T18:31:21Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_x64_Mac_20172011.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378044",
-      "id": 5378044,
-      "name": "OpenJDK8_x64_Mac_20171711.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400193",
+      "id": 5400193,
+      "name": "OpenJDK8_x64_Mac_20172011.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -345,16 +345,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 76457201,
+      "size": 76457532,
       "download_count": 0,
-      "created_at": "2017-11-17T18:31:38Z",
-      "updated_at": "2017-11-17T18:31:50Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_x64_Mac_20171711.tar.gz"
+      "created_at": "2017-11-20T18:31:22Z",
+      "updated_at": "2017-11-20T18:31:34Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_x64_Mac_20172011.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378046",
-      "id": 5378046,
-      "name": "OpenJDK8_x64_Win_20171711.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400194",
+      "id": 5400194,
+      "name": "OpenJDK8_x64_Win_20172011.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -379,14 +379,14 @@
       "state": "uploaded",
       "size": 96,
       "download_count": 0,
-      "created_at": "2017-11-17T18:31:51Z",
-      "updated_at": "2017-11-17T18:31:51Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_x64_Win_20171711.sha256.txt"
+      "created_at": "2017-11-20T18:31:35Z",
+      "updated_at": "2017-11-20T18:31:35Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_x64_Win_20172011.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5378047",
-      "id": 5378047,
-      "name": "OpenJDK8_x64_Win_20171711.zip",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/5400195",
+      "id": 5400195,
+      "name": "OpenJDK8_x64_Win_20172011.zip",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -409,14 +409,14 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 77055021,
+      "size": 77052503,
       "download_count": 0,
-      "created_at": "2017-11-17T18:31:51Z",
-      "updated_at": "2017-11-17T18:31:59Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20171711/OpenJDK8_x64_Win_20171711.zip"
+      "created_at": "2017-11-20T18:31:35Z",
+      "updated_at": "2017-11-20T18:31:46Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20172011/OpenJDK8_x64_Win_20172011.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/tarball/jdk8u172-b00-20171711",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/zipball/jdk8u172-b00-20171711",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/tarball/jdk8u172-b00-20172011",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/zipball/jdk8u172-b00-20172011",
   "body": "Nightly Build of jdk8u172-b00"
 }
