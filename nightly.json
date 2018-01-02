@@ -347,7 +347,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 76462807,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2018-01-01T17:54:14Z",
         "updated_at": "2018-01-01T17:58:12Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180101/OpenJDK8_x64_Mac_20180101.tar.gz"
