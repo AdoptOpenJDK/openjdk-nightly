@@ -411,7 +411,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 77055080,
-        "download_count": 7,
+        "download_count": 8,
         "created_at": "2018-01-23T17:49:37Z",
         "updated_at": "2018-01-23T17:49:43Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20182301/OpenJDK8_x64_Win_20182301.zip"
