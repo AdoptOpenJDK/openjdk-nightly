@@ -283,7 +283,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 78902046,
-        "download_count": 6,
+        "download_count": 7,
         "created_at": "2018-01-25T17:52:13Z",
         "updated_at": "2018-01-25T17:54:01Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20182501/OpenJDK8_x64_Linux_20182501.tar.gz"
