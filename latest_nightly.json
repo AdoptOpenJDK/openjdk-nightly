@@ -1,12 +1,12 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/10420645",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/10420645/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/10420645/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/tag/jdk8u172-b00-20180604",
-  "id": 10420645,
-  "tag_name": "jdk8u172-b00-20180604",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/10459062",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/10459062/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/10459062/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/tag/jdk8u172-b00-20180904",
+  "id": 10459062,
+  "tag_name": "jdk8u172-b00-20180904",
   "target_commitish": "master",
-  "name": "jdk8u172-b00-20180604",
+  "name": "jdk8u172-b00-20180904",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -28,13 +28,13 @@
     "site_admin": false
   },
   "prerelease": false,
-  "created_at": "2018-04-05T16:45:37Z",
-  "published_at": "2018-04-06T01:29:10Z",
+  "created_at": "2018-04-07T02:45:36Z",
+  "published_at": "2018-04-09T16:18:01Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/6752286",
-      "id": 6752286,
-      "name": "OpenJDK8_x64_Win_20180604.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/6784505",
+      "id": 6784505,
+      "name": "OpenJDK8_x64_Win_20180904.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -58,15 +58,15 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 96,
-      "download_count": 1,
-      "created_at": "2018-04-06T01:29:10Z",
-      "updated_at": "2018-04-06T01:29:10Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180604/OpenJDK8_x64_Win_20180604.sha256.txt"
+      "download_count": 0,
+      "created_at": "2018-04-09T16:18:02Z",
+      "updated_at": "2018-04-09T16:18:03Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180904/OpenJDK8_x64_Win_20180904.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/6752287",
-      "id": 6752287,
-      "name": "OpenJDK8_x64_Win_20180604.zip",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/6784506",
+      "id": 6784506,
+      "name": "OpenJDK8_x64_Win_20180904.zip",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -89,14 +89,14 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 77055849,
-      "download_count": 1,
-      "created_at": "2018-04-06T01:29:11Z",
-      "updated_at": "2018-04-06T01:29:16Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180604/OpenJDK8_x64_Win_20180604.zip"
+      "size": 77055449,
+      "download_count": 0,
+      "created_at": "2018-04-09T16:18:03Z",
+      "updated_at": "2018-04-09T16:18:26Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180904/OpenJDK8_x64_Win_20180904.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/tarball/jdk8u172-b00-20180604",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/zipball/jdk8u172-b00-20180604",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/tarball/jdk8u172-b00-20180904",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/zipball/jdk8u172-b00-20180904",
   "body": "Nightly Build of jdk8u172-b00"
 }
