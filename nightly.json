@@ -187,7 +187,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 96,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-05-09T16:16:29Z",
         "updated_at": "2018-05-09T16:16:29Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180509/OpenJDK8_x64_Win_20180509.sha256.txt"
@@ -1471,7 +1471,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 80055964,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-04-30T17:23:10Z",
         "updated_at": "2018-04-30T17:23:18Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180430/OpenJDK8_ppc64_AIX_20180430.tar.gz"
