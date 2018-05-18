@@ -161,8 +161,8 @@
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180518/OpenJDK8_x64_Linux_20180518.tar.gz"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7217686",
-        "id": 7217686,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7226309",
+        "id": 7226309,
         "name": "OpenJDK8_x64_Mac_20180518.sha256.txt",
         "label": "",
         "uploader": {
@@ -188,13 +188,13 @@
         "state": "uploaded",
         "size": 99,
         "download_count": 0,
-        "created_at": "2018-05-18T02:34:53Z",
-        "updated_at": "2018-05-18T02:34:53Z",
+        "created_at": "2018-05-18T18:32:43Z",
+        "updated_at": "2018-05-18T18:32:43Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180518/OpenJDK8_x64_Mac_20180518.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7217687",
-        "id": 7217687,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7226310",
+        "id": 7226310,
         "name": "OpenJDK8_x64_Mac_20180518.tar.gz",
         "label": "",
         "uploader": {
@@ -218,10 +218,10 @@
         },
         "content_type": "application/gzip",
         "state": "uploaded",
-        "size": 77091451,
+        "size": 77094205,
         "download_count": 0,
-        "created_at": "2018-05-18T02:34:53Z",
-        "updated_at": "2018-05-18T02:35:03Z",
+        "created_at": "2018-05-18T18:32:44Z",
+        "updated_at": "2018-05-18T18:32:54Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180518/OpenJDK8_x64_Mac_20180518.tar.gz"
       },
       {
@@ -283,7 +283,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 77055020,
-        "download_count": 1,
+        "download_count": 3,
         "created_at": "2018-05-18T16:23:17Z",
         "updated_at": "2018-05-18T16:23:23Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180518/OpenJDK8_x64_Win_20180518.zip"
