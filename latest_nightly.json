@@ -4,6 +4,7 @@
   "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/11229565/assets{?name,label}",
   "html_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/tag/jdk8u172-b00-20180530",
   "id": 11229565,
+  "node_id": "MDc6UmVsZWFzZTExMjI5NTY1",
   "tag_name": "jdk8u172-b00-20180530",
   "target_commitish": "master",
   "name": "jdk8u172-b00-20180530",
@@ -11,6 +12,7 @@
   "author": {
     "login": "adoptopenjdk-github-bot",
     "id": 26602665,
+    "node_id": "MDQ6VXNlcjI2NjAyNjY1",
     "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
     "gravatar_id": "",
     "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -34,11 +36,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7342286",
       "id": 7342286,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNDIyODY=",
       "name": "OpenJDK8_ppc64le_Linux_20180530.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -66,11 +70,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7342287",
       "id": 7342287,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNDIyODc=",
       "name": "OpenJDK8_ppc64le_Linux_20180530.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -98,11 +104,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7352292",
       "id": 7352292,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIyOTI=",
       "name": "OpenJDK8_ppc64_AIX_20180530.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -130,11 +138,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7352293",
       "id": 7352293,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIyOTM=",
       "name": "OpenJDK8_ppc64_AIX_20180530.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -162,11 +172,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7352034",
       "id": 7352034,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIwMzQ=",
       "name": "OpenJDK8_x64_Win_20180530.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
@@ -194,11 +206,13 @@
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7352035",
       "id": 7352035,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTIwMzU=",
       "name": "OpenJDK8_x64_Win_20180530.zip",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
         "id": 26602665,
+        "node_id": "MDQ6VXNlcjI2NjAyNjY1",
         "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/adoptopenjdk-github-bot",
