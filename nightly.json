@@ -35,9 +35,9 @@
     "published_at": "2018-05-31T00:54:14Z",
     "assets": [
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7356771",
-        "id": 7356771,
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTY3NzE=",
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7367655",
+        "id": 7367655,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNjc2NTU=",
         "name": "OpenJDK8_ppc64le_Linux_20180531.sha256.txt",
         "label": "",
         "uploader": {
@@ -64,14 +64,14 @@
         "state": "uploaded",
         "size": 105,
         "download_count": 0,
-        "created_at": "2018-05-31T01:06:15Z",
-        "updated_at": "2018-05-31T01:06:15Z",
+        "created_at": "2018-05-31T20:44:51Z",
+        "updated_at": "2018-05-31T20:44:51Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180531/OpenJDK8_ppc64le_Linux_20180531.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7356772",
-        "id": 7356772,
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNTY3NzI=",
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7367656",
+        "id": 7367656,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDczNjc2NTY=",
         "name": "OpenJDK8_ppc64le_Linux_20180531.tar.gz",
         "label": "",
         "uploader": {
@@ -96,10 +96,10 @@
         },
         "content_type": "application/gzip",
         "state": "uploaded",
-        "size": 75495312,
+        "size": 75491304,
         "download_count": 0,
-        "created_at": "2018-05-31T01:06:15Z",
-        "updated_at": "2018-05-31T01:06:20Z",
+        "created_at": "2018-05-31T20:44:52Z",
+        "updated_at": "2018-05-31T20:45:00Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180531/OpenJDK8_ppc64le_Linux_20180531.tar.gz"
       },
       {
