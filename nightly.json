@@ -341,7 +341,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 80058831,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-05-30T16:50:01Z",
         "updated_at": "2018-05-30T16:50:06Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180530/OpenJDK8_ppc64_AIX_20180530.tar.gz"
