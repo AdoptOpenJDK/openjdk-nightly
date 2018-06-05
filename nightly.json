@@ -171,9 +171,9 @@
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180605/OpenJDK8_s390x_Linux_20180605.tar.gz"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7409645",
-        "id": 7409645,
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDc0MDk2NDU=",
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7422112",
+        "id": 7422112,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDc0MjIxMTI=",
         "name": "OpenJDK8_x64_Mac_20180605.sha256.txt",
         "label": "",
         "uploader": {
@@ -200,14 +200,14 @@
         "state": "uploaded",
         "size": 99,
         "download_count": 0,
-        "created_at": "2018-06-05T01:47:42Z",
-        "updated_at": "2018-06-05T01:47:42Z",
+        "created_at": "2018-06-05T20:29:42Z",
+        "updated_at": "2018-06-05T20:29:43Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180605/OpenJDK8_x64_Mac_20180605.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7409646",
-        "id": 7409646,
-        "node_id": "MDEyOlJlbGVhc2VBc3NldDc0MDk2NDY=",
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7422113",
+        "id": 7422113,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDc0MjIxMTM=",
         "name": "OpenJDK8_x64_Mac_20180605.tar.gz",
         "label": "",
         "uploader": {
@@ -232,10 +232,10 @@
         },
         "content_type": "application/gzip",
         "state": "uploaded",
-        "size": 77103045,
+        "size": 77103879,
         "download_count": 0,
-        "created_at": "2018-06-05T01:47:43Z",
-        "updated_at": "2018-06-05T01:47:48Z",
+        "created_at": "2018-06-05T20:29:44Z",
+        "updated_at": "2018-06-05T20:29:49Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180605/OpenJDK8_x64_Mac_20180605.tar.gz"
       },
       {
