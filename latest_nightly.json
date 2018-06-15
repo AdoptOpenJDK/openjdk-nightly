@@ -1,13 +1,13 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/11504710",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/11504710/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/11504710/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/tag/jdk8u172-b00-201815060900",
-  "id": 11504710,
-  "node_id": "MDc6UmVsZWFzZTExNTA0NzEw",
-  "tag_name": "jdk8u172-b00-201815060900",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/11507832",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/11507832/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/11507832/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/tag/jdk8u172-b00-201815061700",
+  "id": 11507832,
+  "node_id": "MDc6UmVsZWFzZTExNTA3ODMy",
+  "tag_name": "jdk8u172-b00-201815061700",
   "target_commitish": "master",
-  "name": "jdk8u172-b00-201815060900",
+  "name": "jdk8u172-b00-201815061700",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -30,14 +30,14 @@
     "site_admin": false
   },
   "prerelease": false,
-  "created_at": "2018-06-15T16:47:16Z",
-  "published_at": "2018-06-15T16:52:20Z",
+  "created_at": "2018-06-15T16:52:35Z",
+  "published_at": "2018-06-15T20:23:11Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7549159",
-      "id": 7549159,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDc1NDkxNTk=",
-      "name": "OpenJDK8_ppc64_AIX_201815060900.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7550924",
+      "id": 7550924,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDc1NTA5MjQ=",
+      "name": "OpenJDK8_x64_Mac_201815061700.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -61,17 +61,17 @@
       },
       "content_type": "text/plain",
       "state": "uploaded",
-      "size": 105,
+      "size": 103,
       "download_count": 0,
-      "created_at": "2018-06-15T16:52:21Z",
-      "updated_at": "2018-06-15T16:52:21Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815060900/OpenJDK8_ppc64_AIX_201815060900.sha256.txt"
+      "created_at": "2018-06-15T20:23:12Z",
+      "updated_at": "2018-06-15T20:23:12Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815061700/OpenJDK8_x64_Mac_201815061700.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7549160",
-      "id": 7549160,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDc1NDkxNjA=",
-      "name": "OpenJDK8_ppc64_AIX_201815060900.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/releases/assets/7550925",
+      "id": 7550925,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDc1NTA5MjU=",
+      "name": "OpenJDK8_x64_Mac_201815061700.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -95,14 +95,14 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 80057222,
+      "size": 77102176,
       "download_count": 0,
-      "created_at": "2018-06-15T16:52:21Z",
-      "updated_at": "2018-06-15T16:52:25Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815060900/OpenJDK8_ppc64_AIX_201815060900.tar.gz"
+      "created_at": "2018-06-15T20:23:12Z",
+      "updated_at": "2018-06-15T20:23:17Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815061700/OpenJDK8_x64_Mac_201815061700.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/tarball/jdk8u172-b00-201815060900",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/zipball/jdk8u172-b00-201815060900",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/tarball/jdk8u172-b00-201815061700",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-nightly/zipball/jdk8u172-b00-201815061700",
   "body": "Nightly Build of jdk8u172-b00"
 }
