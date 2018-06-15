@@ -205,7 +205,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 80057222,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-06-15T16:52:21Z",
         "updated_at": "2018-06-15T16:52:25Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815060900/OpenJDK8_ppc64_AIX_201815060900.tar.gz"
@@ -557,7 +557,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 75492333,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-06-15T16:20:06Z",
         "updated_at": "2018-06-15T16:20:11Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815061559/OpenJDK8_ppc64le_Linux_201815061559.tar.gz"
@@ -665,7 +665,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 78348995,
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2018-06-15T08:52:19Z",
         "updated_at": "2018-06-15T08:52:24Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815060030/OpenJDK8_x64_Linux_201815060030.tar.gz"
@@ -2827,7 +2827,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 78349502,
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2018-06-05T23:35:34Z",
         "updated_at": "2018-06-05T23:36:19Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180606/OpenJDK8_x64_Linux_20180606.tar.gz"
@@ -2963,7 +2963,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 75491593,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-06-06T17:07:55Z",
         "updated_at": "2018-06-06T17:07:59Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-20180606/OpenJDK8_ppc64le_Linux_20180606.tar.gz"
