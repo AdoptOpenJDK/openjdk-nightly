@@ -63,7 +63,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 56,
+        "download_count": 57,
         "created_at": "2018-06-16T03:36:54Z",
         "updated_at": "2018-06-16T03:36:54Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815061600/OpenJDK8_x64_Linux_201815061600.sha256.txt"
@@ -171,7 +171,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 107,
-        "download_count": 36,
+        "download_count": 37,
         "created_at": "2018-06-16T02:37:03Z",
         "updated_at": "2018-06-16T02:37:03Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815061200/OpenJDK8_s390x_Linux_201815061200.sha256.txt"
@@ -495,7 +495,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 36,
+        "download_count": 37,
         "created_at": "2018-06-15T16:46:50Z",
         "updated_at": "2018-06-15T16:46:51Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815061640/OpenJDK8_aarch64_Linux_201813061647.sha256.txt"
@@ -563,7 +563,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 36,
+        "download_count": 37,
         "created_at": "2018-06-15T16:46:56Z",
         "updated_at": "2018-06-15T16:46:56Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815061640/OpenJDK8_aarch64_Linux_201815060111.sha256.txt"
@@ -631,7 +631,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 36,
+        "download_count": 37,
         "created_at": "2018-06-15T16:47:01Z",
         "updated_at": "2018-06-15T16:47:01Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815061640/OpenJDK8_aarch64_Linux_201815061640.sha256.txt"
@@ -739,7 +739,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 36,
+        "download_count": 37,
         "created_at": "2018-06-15T16:20:06Z",
         "updated_at": "2018-06-15T16:20:06Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815061559/OpenJDK8_ppc64le_Linux_201815061559.sha256.txt"
