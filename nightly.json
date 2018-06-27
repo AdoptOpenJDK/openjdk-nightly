@@ -1397,7 +1397,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 75492333,
-        "download_count": 13,
+        "download_count": 14,
         "created_at": "2018-06-15T16:20:06Z",
         "updated_at": "2018-06-15T16:20:11Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201815061559/OpenJDK8_ppc64le_Linux_201815061559.tar.gz"
