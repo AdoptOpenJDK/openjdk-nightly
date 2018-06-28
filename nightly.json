@@ -97,7 +97,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 79443650,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2018-06-28T16:51:48Z",
         "updated_at": "2018-06-28T16:51:52Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201828061640/OpenJDK8_aarch64_Linux_201813061647.tar.gz"
@@ -653,7 +653,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 79429347,
-        "download_count": 9,
+        "download_count": 10,
         "created_at": "2018-06-27T17:04:26Z",
         "updated_at": "2018-06-27T17:04:30Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201827061855/OpenJDK8_aarch64_Linux_201818061901.tar.gz"
