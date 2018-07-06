@@ -300,7 +300,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 75495690,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2018-07-05T22:52:55Z",
       "updated_at": "2018-07-05T22:53:01Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201807051800/OpenJDK8_ppc64le_Linux_201807051800.tar.gz"
@@ -368,7 +368,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 78414334,
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2018-07-06T01:26:07Z",
       "updated_at": "2018-07-06T01:26:11Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201807051800/OpenJDK8_x64_Linux_201807051800.tar.gz"
