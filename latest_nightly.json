@@ -300,7 +300,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 74494029,
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2018-07-11T22:54:21Z",
       "updated_at": "2018-07-11T22:54:24Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201807111800/OpenJDK8_s390x_Linux_201807111800.tar.gz"
