@@ -6993,7 +6993,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 77101001,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-06-27T20:33:11Z",
         "updated_at": "2018-06-27T20:33:17Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201806271800/OpenJDK8_x64_Mac_201806271800.tar.gz"
@@ -9133,7 +9133,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 77101491,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-06-15T04:49:41Z",
         "updated_at": "2018-06-15T04:49:45Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201814061730/OpenJDK8_x64_Mac_201814061730.tar.gz"
