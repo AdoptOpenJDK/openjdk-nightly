@@ -62,7 +62,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 109,
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2018-07-27T17:23:42Z",
       "updated_at": "2018-07-27T17:23:42Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/jdk8u172-b00-201827071858/OpenJDK8_aarch64_Linux_201804071857.sha256.txt"
