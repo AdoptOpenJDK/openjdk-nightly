@@ -97,7 +97,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 79462643,
-        "download_count": 6,
+        "download_count": 7,
         "created_at": "2018-08-24T12:11:23Z",
         "updated_at": "2018-08-24T12:11:28Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/201824081400/OpenJDK8_aarch64_Linux_201824081400.tar.gz"
@@ -205,7 +205,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 75384775,
-        "download_count": 6,
+        "download_count": 7,
         "created_at": "2018-08-24T12:27:08Z",
         "updated_at": "2018-08-24T12:27:12Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/201808241300/OpenJDK8_ppc64le_Linux_201808241300.tar.gz"
@@ -273,7 +273,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 74302079,
-        "download_count": 6,
+        "download_count": 7,
         "created_at": "2018-08-24T12:00:45Z",
         "updated_at": "2018-08-24T12:00:50Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/201808241300/OpenJDK8_s390x_Linux_201808241300.tar.gz"
@@ -341,7 +341,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 78347341,
-        "download_count": 9,
+        "download_count": 10,
         "created_at": "2018-08-24T19:43:27Z",
         "updated_at": "2018-08-24T19:43:48Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/201808241300/OpenJDK8_x64_Linux_201808241300.tar.gz"
@@ -409,7 +409,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 77069935,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-08-24T11:29:57Z",
         "updated_at": "2018-08-24T11:30:03Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/201808241300/OpenJDK8_x64_Windows_201808241300.zip"
