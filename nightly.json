@@ -63,7 +63,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2018-08-28T12:12:13Z",
         "updated_at": "2018-08-28T12:12:14Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/201828081401/OpenJDK8_aarch64_Linux_201828081401.sha256.txt"
@@ -171,7 +171,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2018-08-28T12:21:17Z",
         "updated_at": "2018-08-28T12:21:17Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/201808281300/OpenJDK8_ppc64le_Linux_201808281300.sha256.txt"
@@ -591,7 +591,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 107,
-        "download_count": 12,
+        "download_count": 13,
         "created_at": "2018-08-27T11:58:46Z",
         "updated_at": "2018-08-27T11:58:46Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/201808271300/OpenJDK8_s390x_Linux_201808271300.sha256.txt"
@@ -625,7 +625,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 74297035,
-        "download_count": 2,
+        "download_count": 4,
         "created_at": "2018-08-27T11:58:46Z",
         "updated_at": "2018-08-27T11:58:51Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/201808271300/OpenJDK8_s390x_Linux_201808271300.tar.gz"
@@ -659,7 +659,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2018-08-27T19:55:23Z",
         "updated_at": "2018-08-27T19:55:24Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-nightly/releases/download/201808271300/OpenJDK8_x64_Linux_201808271300.sha256.txt"
